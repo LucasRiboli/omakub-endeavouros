@@ -1,1 +1,0 @@
-yay -Rns --noconfirm atuin
